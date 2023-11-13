@@ -1,0 +1,43 @@
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+* {
+  line-height: 2rem;
+}
+
+*,.text-h1, .text-h2, .text-h3, .text-h4, .text-h5, .text-h6, .text-body-1{
+  font-family: Tajawal !important;
+}
+
+.v-application {
+  background-color: #371089;
+  background-image: url('../assets/hatif_logo.png');
+  background-size: cover;
+}
+
+.purple-gradient {
+  background-color: #371089;
+  background-image: url('../assets/hatif_logo.png');
+  background-size: cover;
+}
+
+.red-gradient {
+  background: #98231a;
+  background-image: url('../assets/hatif_logo.png');
+  background-size: cover;
+}
+
+.hatif {
+  background: rgb(26, 152, 118);
+  background-image: url('../assets/hatif_logo.png');
+  background-size: cover;
+}
+
+.fab {
+  position:absolute;
+  left: 80px;
+  bottom: 100px;
+}
